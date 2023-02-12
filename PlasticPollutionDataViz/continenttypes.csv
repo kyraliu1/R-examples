@@ -1,0 +1,49 @@
+"","continent","plastic_type","total","events"
+"1","Africa","empty",335,6559
+"2","Africa","hdpe",8718,6559
+"3","Africa","ldpe",16460,6559
+"4","Africa","o",26764,6559
+"5","Africa","pet",54696,6559
+"6","Africa","pp",3292,6559
+"7","Africa","ps",2158,6559
+"8","Africa","pvc",73,6559
+"9","Asia","empty",693,45174
+"10","Asia","hdpe",2969,45174
+"11","Asia","ldpe",12402,45174
+"12","Asia","o",26212,45174
+"13","Asia","pet",12466,45174
+"14","Asia","pp",47241,45174
+"15","Asia","ps",2738,45174
+"16","Asia","pvc",1556,45174
+"17","Australia","empty",4,621
+"18","Australia","hdpe",33,621
+"19","Australia","ldpe",222,621
+"20","Australia","o",898,621
+"21","Australia","pet",141,621
+"22","Australia","pp",361,621
+"23","Australia","ps",3,621
+"24","Australia","pvc",6,621
+"25","Europe","empty",2464,9210
+"26","Europe","hdpe",3474,9210
+"27","Europe","ldpe",4162,9210
+"28","Europe","o",67707,9210
+"29","Europe","pet",4964,9210
+"30","Europe","pp",3508,9210
+"31","Europe","ps",1625,9210
+"32","Europe","pvc",131,9210
+"33","North America","empty",0,129
+"34","North America","hdpe",117,129
+"35","North America","ldpe",611,129
+"36","North America","o",440,129
+"37","North America","pet",283,129
+"38","North America","pp",277,129
+"39","North America","ps",159,129
+"40","North America","pvc",0,129
+"41","South America","empty",196,8110
+"42","South America","hdpe",976,8110
+"43","South America","ldpe",1917,8110
+"44","South America","o",3635,8110
+"45","South America","pet",5703,8110
+"46","South America","pp",2453,8110
+"47","South America","ps",805,8110
+"48","South America","pvc",167,8110
